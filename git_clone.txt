@@ -1,2 +1,4 @@
 Question 1:
 Explain what git clone does, in your own words.
+
+Git clone clones a repository from GitHub into a new directory in the local machine
