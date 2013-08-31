@@ -1,2 +1,4 @@
 Question 3:
 Explain what a branch is, in your own words
+
+Branches in Git are references to a specific commit 
