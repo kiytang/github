@@ -1,2 +1,7 @@
 Question 2:
 Explain what the "upstream" remote is usually used for, in your own words,
+
+The 'upstrem' remote of a git repository is usually used when you are working on a fork of a repository of another GitHub  that you only have read access to.
+
+If any updates occur then you can conduct your update via git pull master upstream
+.
