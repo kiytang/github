@@ -1,0 +1,2 @@
+Git clone simple clones a repository from GitHub into a new directory in your local machine
+
